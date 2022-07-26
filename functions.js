@@ -29,7 +29,7 @@ saludar('Fernando');
 
 //---------------------------
 
-var nombre = function(nombre){
+}var nombre = function(nombre){
     console.log(`Hola ${nombre}`)
 }
 
